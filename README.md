@@ -29,6 +29,17 @@ file:///C:/Users/Earl%20Josh/Downloads/ATS-Friendly%20CV%20(Student%20Level)%20-
 - Description: 2d Idle Gacha Game
 - Tech Stack: Unity 2d, C#
 
+### Project 5: Game Programming II Project
+
+- Description: 2d Car Race Game
+- Tech Stack: Unity 2d, C#
+- https://github.com/EJS12345/GP2-W13---Final-Output-of-the-Week
+
+### Project 6: Unity UI Augmented Reality Project
+- Description: Unity UI Augmented Reality Testing With Mobile Testing
+- Tech Stack: Unity 2d, C#
+- https://github.com/EJS12345/UI-W13---Final-Output--Version-1- 
+
 ## Skills
 - C#
 - JavaScript
